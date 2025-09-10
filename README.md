@@ -3,7 +3,7 @@
 Uno script Python semplice per bloccare i siti che ti distraggono fino a quando decidi tu di sbloccarli!
 
 ## Come funziona
-
+ 
 - Blocca i siti web che scegli modificando il file `hosts`.- Mantiene il blocco fino a una data che imposti.  
 - Quando arriva la data, sblocca automaticamente i siti.  
 - Controlla ogni 5 secondi se deve bloccare o sbloccare.
