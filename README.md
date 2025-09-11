@@ -16,7 +16,7 @@ Uno script Python semplice per bloccare i siti che ti distraggono fino a quando 
 
 - Molto semplice da configurare e immediato da usare.
 
-## Come usarlo 
+## Come usarlo
 
 Esegui il file come amministratore, apri lo script e modifica le impostazioni:  
 
