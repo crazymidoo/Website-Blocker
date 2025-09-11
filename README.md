@@ -1,5 +1,5 @@
 # Website Blocker
-
+ 
 Uno script Python semplice per bloccare i siti che ti distraggono fino a quando decidi tu di sbloccarli!
 
 ## Come funziona
