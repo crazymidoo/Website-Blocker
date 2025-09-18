@@ -12,7 +12,7 @@ Uno script Python semplice per bloccare i siti che ti distraggono fino a quando 
 
 - Aiuta a rimanere concentrato ed evitare distrazioni.
 
-- Utile per studio, lavoro o quando vuoi avere più autocontrollo online.
+- Utile per studio, lavoro o quando vuoi avere più autocontrollo online.  
 
 - Molto semplice da configurare e immediato da usare.
 
