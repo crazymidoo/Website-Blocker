@@ -8,7 +8,7 @@ Uno script Python semplice per bloccare i siti che ti distraggono fino a quando 
 - Quando arriva la data, sblocca automaticamente i siti.  
 - Controlla ogni 5 secondi se deve bloccare o sbloccare.
 
-## Perchè usarlo? 
+## Perchè usarlo?
 
 - Aiuta a rimanere concentrato ed evitare distrazioni.
 
